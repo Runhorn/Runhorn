@@ -10,7 +10,7 @@
 ---
 ### :man_technologist: About Me
 
-- 🏢: I’m working as a Big Data Engineer with nearly 3 years of experience.
+- 🏢: I’m working as a Big Data Engineer since 06.2021.
 
 - 🏗️: Started building proper project portfolio starting with AnaliticSandbox project.
 
